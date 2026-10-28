@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Sangbog – Kristi Kirke København</title>
+  <meta name="description" content="Sangbogen for Kristi Kirke København – salmer, hymner og åndelige sange.">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="color-scheme" content="light dark">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Sangbog">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Index of all songs -->
+  <main id="index-view" class="view" hidden>
+    <h1 class="index-title">
+      <span class="index-church">Kristi Kirke København</span>
+      <span class="index-name">Sangbog</span>
+    </h1>
+
+    <div id="song-list" class="song-list"></div>
+    <p id="list-empty" class="list-empty" hidden></p>
+
+    <footer class="index-footer">
+      <section id="afterword-section" class="afterword" aria-labelledby="afterword-title" hidden>
+        <h2 id="afterword-title" class="section-title">Efterskrift</h2>
+        <div id="afterword" class="afterword-text"></div>
+      </section>
+      <div class="share">
+        <div id="qr" class="qr"></div>
+        <p class="qr-caption">Del med denne</p>
+      </div>
+    </footer>
+  </main>
+
+  <!-- One song -->
+  <div id="song-view" class="view" hidden>
+    <div class="song-tools">
+      <button class="icon-button" id="back-button" type="button" aria-label="Til oversigten">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+
+    <article id="song" class="song" aria-live="polite">
+      <header class="song-header">
+        <p id="song-number" class="song-number"></p>
+        <h2 id="song-title" class="song-title"></h2>
+        <p id="song-subtitle" class="song-subtitle" hidden></p>
+      </header>
+      <div id="verses" class="verses"></div>
+    </article>
+  </div>
+
+  <script src="vendor/qrcode.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>

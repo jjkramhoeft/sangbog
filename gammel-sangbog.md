@@ -13,7 +13,7 @@ At synge har altid været en uadskillelig del af Guds Rige. Hvor glorværdig er 
 Det er vores bøn, at denne sangbog vil hjælpe vores sang til at være frisk, til at modnes & til at fejre alt vi har i Kristus, samt de skatte der venter os i Himmelen
 Æren tilhører Gud.
 
-Taknemlige disciple
+Taknemlige disciple, 2016
 
 ## Indhold
 
