@@ -591,21 +591,20 @@ På den dag er det vel med min sjæl.
 
 ### 110. Kære Gud
 
-**Kære Gud, jeg bøjer mig i bøn for dig.**\
-**Siden tidens morgen har du skabt os alt.**\
-**||: Tænk at du i al din storhed stadig vil**\
-**skabe et håb for mig. :||**
+Kære Gud, jeg bøjer mig i bøn for dig.\
+Siden tidens morgen har du skabt os alt.\
+||: Tænk at du i al din storhed stadig vil\
+skabe et håb for mig. :||
 
-**Tak, min Far, for ordet som blev levende,**\
-**din søn, som er os sendt og nådegivende.**\
-**||: Alle blev vi skænket af hans liv, og han**\
-**leder mig trygt på vej. :||**
+Tak, min Far, for ordet som blev levende,\
+din søn, som er os sendt og nådegivende.\
+||: Alle blev vi skænket af hans liv, og han\
+leder mig trygt på vej. :||
 
-**Hos dig, Herre, kan min sjæl få trøst og**\
-**fred,**\
-**og jeg finder styrke i din kærlighed.**\
-**||: Giv mig mod til vandringen på livets vej:**\
-**At skænke mit liv til dig. :||**
+Hos dig, Herre, kan min sjæl få trøst og fred,\
+og jeg finder styrke i din kærlighed.\
+||: Giv mig mod til vandringen på livets vej:\
+At skænke mit liv til dig. :||
 
 ### 111. Gud, gør din kirke hel
 
@@ -923,7 +922,7 @@ jeg løfter stemmen for at prise Herrens navn.
 *Pris vor Herre Gud,*\
 *jeg løfter stemmen for at prise Herrens navn.*\
 *Pris vor Herre Gud,*\
-jeg løfter stemmen for at prise Herrens navn.
+*jeg løfter stemmen for at prise Herrens navn.*
 
 ### 214. En vidunderlig dag
 
